@@ -1,9 +1,9 @@
-**Grdient Descent Algorithm**
+**Grdient Descent Algorithm**<br /> 
 In Today’s world, Artificial Intelligence is transforming and reaching higher heights. In the process of learning new things, as a human, we make mistakes and try to correct learning from our mistakes. In the same way machines under the supervision of humans try to correct their predictions on a particular task. Gradient Descent Algorithm is the algorithm used to reduce the cost function using the concept of gradients and differential calculus to reach global optimum. This mini-project is developed using Java for code, React JS for logic and Graphical User Interface.
-**1.1 INTRODUCTION TO GRADIENT DESCENT ALGORITHM**
+**1.1 INTRODUCTION TO GRADIENT DESCENT ALGORITHM**<br /> 
 Gradient descent is a first-order iterative optimization algorithm for finding a local minimum of a differentiable function. The idea is to take repeated steps in the opposite direction of the gradient (or approximate gradient) of the function at the current point, because this is the direction of steepest descent. Conversely, stepping in the direction of the gradient will lead to a local maximum of that function; the procedure is then known as gradient ascent.
 
-**1.2 WORKING OF THE PROJECT:**
+**1.2 WORKING OF THE PROJECT:**<br /> 
 Gradient is a vector that is tangent of a function and points in the direction of greatest increase of this function. Gradient is zero at a local maximum or minimum because there is no single direction of increase. In mathematics, gradient is defined as partial derivative for every input variable of function.
 To find the global optimum which is the minimum loss, we will make the algorithm descent towards global minima and update the previous weights and bias with new ones. The algorithm used is
  ![image](https://user-images.githubusercontent.com/61362200/128690915-98a402dd-b5ac-48f0-a143-a914ed92a658.png)
@@ -30,7 +30,7 @@ React JS is used to build logic of the algorithm. Recursion is used to the gradi
 	The weights and bias are initialized with zeroes and prediction by finding hypothesis function made by the algorithm which is compared with original value. 
 ![image](https://user-images.githubusercontent.com/61362200/128691218-42c63262-81b9-4ca5-af2c-1a58e4aed524.png)
 
-**References**
+**References**<br /> 
 1.	https://en.wikipedia.org/wiki/Gradient_descent
 2.	https://towardsdatascience.com/an-introduction-to-gradient-descent-c9cca5739307
 3.	https://techyvishnu.medium.com/linear-regression-37b35ee60573
