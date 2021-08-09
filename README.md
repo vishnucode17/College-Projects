@@ -15,7 +15,7 @@ The algorithm tries to decrease the cost of the data, to achieve greater accurac
 
 Gradient Descent Algorithm plays a vital role in reducing the loss in the prediction mail in Supervised Learning of Artificial Intelligence.
 As gradient is a vector pointing at the greatest increase of a function, negative gradient is a vector pointing at the greatest decrease of a function. Therefore, we can minimize a function by iteratively moving a little bit in the direction of negative gradient. That is the logic of gradient descent.
-![image](https://user-images.githubusercontent.com/61362200/128691000-08bbe4be-76e9-4413-844d-4546e5912b46.png)
+![image](https://user-images.githubusercontent.com/61362200/128691582-fdac8289-960a-4ca3-8b3c-ebddca4066c6.png)
 When solving the problems with more than one variable then the Cost function graph will be n+1 dimensional graph where  n is number of variables in the given equation. 
 **
 H(x) = w1*x! +w2*x2 +w3*x3+…….wn+xn +b
